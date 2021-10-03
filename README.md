@@ -2,7 +2,7 @@
 
 Repo based on the **JavaScript Gamer Developer** bootcamp for the **Digital Innovation One** classes.
 
-Author: [Francis Rodrigues](https://github.com/francisrod01)
+Author: [Robinson Dias](https://github.com/robinson-1985)
 
 > Repo da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! &mdash; [SpruceGabriela](https://github.com/SpruceGabriela)
 
